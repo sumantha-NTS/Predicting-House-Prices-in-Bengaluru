@@ -43,7 +43,7 @@ def predict(area,loc,bed,sqft,balc):
     return prediction, per_sqft
 
 def main():
-    st.title('Prediction of Hose Price in Bengaluru')
+    st.title('Prediction of House Price in Bengaluru')
     
     b2, about = st.beta_columns([9,1])
     if about.button('About'):
