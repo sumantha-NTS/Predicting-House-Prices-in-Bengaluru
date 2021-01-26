@@ -6,7 +6,7 @@ Data is taken from kaggle : https://www.kaggle.com/architsingh15/bengaluru-house
 
 
 ## Algirithm Used for Prediction
-Following are the algorithms used for predicting heart fail along with their accuracy
+Following are the algorithms used for predicting new house prices along with their RMSE and R square value.
 |Sl.No.|      Algorithm      |RMSE|R2 (%)|
 |:----:|:-------------------:|:----------:|:----------:|
 |1.    | Linear Regression |        |        
