@@ -2,7 +2,7 @@
 This project predicts price of new houses in Bengaluru.\
 Data is taken from kaggle : https://www.kaggle.com/architsingh15/bengaluru-house-prices
 
-
+## Feature Extraction
 
 
 ## Algirithm Used for Prediction
@@ -17,4 +17,5 @@ Following are the algorithms used for predicting new house prices and performanc
 |6.    | Neural Network      |    0.314   |    81.87  |
 |7.    | XG Boost            |    0.343   |    78.45  |
 |8.    | Random Forest       |    0.48    |    57.73  |
+
 From the above table, it is evidend that the best regressor for this problem is XGBoost. So for the app building, XGBoost is considered for predicting new House Prices.
