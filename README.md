@@ -21,5 +21,5 @@ Following are the algorithms used for predicting new house prices and performanc
 From the above table, it is evidend that the best regressor for this problem is **XGBoost**. So for the app building, XGBoost is considered for predicting new House Prices.
 
 ## Deployment :
-I have used **Streamlit** library and **Heroku** platform to build the app.\
+I have used **Streamlit** library and **Heroku** platform to deploy the app.\
 App URL : 
