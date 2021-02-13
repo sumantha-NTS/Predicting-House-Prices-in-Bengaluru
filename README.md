@@ -24,7 +24,7 @@ Following are the algorithms used for predicting new house prices and performanc
 |7.    | Random Forest       |    0.343   |    78.45  |
 |8.    | Neural Network      |    0.48    |    57.73  |
 
-From the above table, it is evidend that the best regressor for this problem is **XGBoost**. So for the building API, XGBoost is considered for predicting new House Prices.
+From the above table, it is evidend that the best regressor for this problem is **XGBoost**. So for building API, XGBoost is considered for predicting new House Prices.
 
 ## Deployment :
 I have used **Streamlit** library and **Heroku** platform to deploy the app.\
